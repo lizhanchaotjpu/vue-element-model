@@ -16,6 +16,7 @@ export default {
   },
   mounted() {
     console.log('1')
+    console.log('2')
   }
 }
 </script>
